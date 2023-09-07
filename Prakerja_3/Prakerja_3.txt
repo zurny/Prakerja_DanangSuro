@@ -1,0 +1,15 @@
+alterra batch 5 file test 1
+
+lagi belajar git
+
+semoga bisa
+
+git init
+git push
+git pull
+git add
+git commit
+
+danang dirman test 123
+
+Bogor
